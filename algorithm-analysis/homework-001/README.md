@@ -4,7 +4,9 @@ Implement insertion sort, merge sort, and random quick sort algorithms and compa
 
 # Results
 
-![alt text](https://github.com/pedro-hr-resende/computer-science/blob/main/algorithm-analysis/homework-001/graphics/insertionSort.png)
+<p align = "center">
+  <img src = "https://github.com/pedro-hr-resende/computer-science/blob/main/algorithm-analysis/homework-001/graphics/insertionSort.png"/>
+</p>
 
 ![alt text](https://github.com/pedro-hr-resende/computer-science/blob/main/algorithm-analysis/homework-001/graphics/mergeSort.png)
 
