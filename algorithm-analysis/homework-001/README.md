@@ -1,6 +1,6 @@
 # First homework of algorithm analysis
 
-<p align = "center">
+<p align = "justify">
 Implement insertion sort, merge sort, and random quick sort algorithms and compare execution times as the number of input elements increases. Then modify the merge sort and quick sort to use insertion sort when the problem is small.
 </p>
 
